@@ -1,2 +1,3 @@
 # Selenium-python
-Teste manual simulando um ser humano
+
+Teste manual simulando um ser humano interagindo 

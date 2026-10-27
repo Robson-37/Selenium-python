@@ -1,0 +1,11 @@
+setuptools
+selenium>=4.18.0
+webdriver-manager>=4.0.1
+numpy>=2.4.3
+pytest>=8.0.0
+pytest-xdist>=3.5.0
+opencv-python>=4.9.0
+pyautogui>=0.9.54
+pillow>=10.0.0
+pyscreeze>=0.1.30
+#python -m pip install -r requirements.txt para executar as dependencias.
